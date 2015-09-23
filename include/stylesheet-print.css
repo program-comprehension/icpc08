@@ -1,0 +1,178 @@
+BODY, #container, #header, #pagebody, DIV.report {
+	
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	float:none !important; 
+	overflow: visible !important; 
+	margin: 0px !important;
+	padding: 0px !important;
+	width: 100% !important;	
+	background-image:none !important; 
+	background-color:#FFFFFF !important;
+	color:	 #000;
+	text-align: left;
+}
+
+
+H1 {
+	font-size: 35px;
+	padding:0px;
+	margin-bottom:8px;
+	margin-top:8px;
+	width:380px;
+}
+
+H1.workshop {
+	font-size: 25px;
+	padding:0px;
+	margin-bottom:8px;
+	margin-top:8px;
+	width:570px;
+}
+
+H2 {
+	font-size: 17px;
+	padding:0px;
+	margin-bottom:4px;
+	margin-top:6px;
+}
+
+H2.center {
+	font-size: 17px;
+	padding:0px;
+	margin-bottom:4px;
+	margin-top:4px;
+}
+
+H2.red {
+	font-size: 17px;
+	padding:0px;
+	margin-bottom:4px;
+	margin-top:4px; text-align:center; color:red;
+}
+
+H3 {
+	font-size: 16px;
+	margin-bottom:2px;
+	margin-top:2px;
+}
+
+H4 {
+	font-size: 16px;
+	margin:0px;
+	padding:0px;
+	width:140px; visibility:hidden; display:none;
+}
+
+
+TABLE {
+	width:100%; 
+	border:1px;
+}
+
+IMG {
+	border:0px;
+	margin:0px;
+	padding:0px;
+}
+
+IMG.hide {
+
+	visibility: hidden;
+	display:none;
+}
+
+
+A {border:0px;margin:0px;padding:0px;color: #000;text-decoration:underline;}
+
+
+TD{
+	border:1px solid black;
+}
+
+
+TD.programtime{
+	width:18%;
+}
+
+
+
+.sIFR-flash {
+	display: none !important;
+	height: 0;
+	width: 0;
+	position: absolute;
+	overflow: hidden;
+}
+
+.sIFR-alternate {
+	visibility: visible !important;
+	display: block !important;
+	position: static !important;
+	left: auto !important;
+	top: auto !important;
+}
+
+
+
+label {
+	float:left;
+	width:40%;
+	margin-right:0.5em;
+	padding-top:0.4em;
+	text-align:right;
+	font-weight:bold;
+}
+
+
+legend {
+	background-color:#0066cc;
+	color:white;
+}
+
+fieldset {
+	padding: 1em;
+	font-size:90%;
+}
+
+input[type=text] {
+	width:320px;
+	font-family:Helvetica, Arial, sans-serif;
+	 font-size: 12px;
+}
+
+input.upper {
+	color:black;
+	background-color:#cccccc; 
+	border:0px;
+	font-family:Helvetica, Arial, sans-serif;
+	 font-size: 12px;
+}
+
+input[type=submit] {
+	background-color:#0066cc;
+	color:white;
+	font-family:Helvetica, Arial, sans-serif;
+}
+
+textarea{
+	font-family:Helvetica, Arial, sans-serif;
+	 font-size: 12px;
+}
+
+table.overview {
+	width:100%;
+	border:1px;
+	font-size:10px;
+	position:relative;
+	left:0px;
+
+}
+
+th.name{ 
+ width:10%;
+}
+
+th.org{
+ width:15%;
+}

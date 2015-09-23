@@ -1,0 +1,125 @@
+                Call For Papers, ICPC 2008
+   16th IEEE International Conference on Program Comprehension
+        10-13 June, 2008, Amsterdam, The Netherlands
+              http://www.cs.vu.nl/icpc2008/
+
+                     Keynote Speaker	
+                   Prof. Suraj Kothari
+      "Scalable Program Comprehension to Improve 
+                  Productivity and Quality of Software"
+
+Program comprehension is a frequent software engineering activity 
+involved in practically all stages of the software development
+life cycle. Developers need to understand the system they work on
+in order to fix its bugs, enhance its functionalities, and reengineer
+it for a different environment.
+Software systems have been becoming more complex - think
+of language cocktails, multi-threaded and asynchronous programming, 
+multi-tier architectures, cross-platform compilation, abstraction 
+mechanisms for separations of concerns, loose coupling, and
+so on. As a result, program comprehension is getting more challenging 
+but also desperately more needed.
+The International Conference on Program Comprehension (ICPC) is the 
+premier forum on program comprehension. The conference covers related 
+subjects such as software analysis, software visualization, reverse 
+engineering, and software evolution. ICPC 2008 is the 16th edition 
+of the conference since its first holding (originally as a workshop) 
+in 1992. ICPC 2008 will provide an opportunity for researchers and 
+practitioners from academia, industry and government, to present 
+and discuss state-of-the-art and best-practices results in the field. 
+There are these forms of participation: the presentation of a regular 
+research paper, the organization of affiliated events and participation
+in those, as well as the presentation of a poster or a tool demo.
+
+Topics of interest
+Here is a non-exhaustive list: (i) cognitive theories for software
+comprehension, including experiments and case studies; (ii) software 
+visualization, program analysis and model-driven techniques
+in support of software comprehension; (iii) issues specific to the
+comprehension of specific types of systems, such as legacy systems, 
+object-oriented frameworks, web-based systems, COTS, software product 
+lines, and notably large-scale systems; (iv) comprehension in the 
+context of specific life cycle activities such as maintenance, 
+reengineering, migration, inspection before purchase, security 
+auditing, and testing.
+
+Technical papers
+Papers must describe original work and are limited to approximately 
+6000 words (up to 10 pages in the IEEE CS proceedings
+style). Submissions must not have been previously published nor
+be currently submitted to, or be in consideration for, any journal,
+book, or conference. Papers accepted for publication will require at
+least one author to attend the event and present the work. A number
+of technical paper submissions may be accepted as short papers.
+Affiliated events
+Like in the past, ICPC will affiliate with a number of working
+sessions or workshops. These are typically half-day events that
+are meant as forums for groups of people who want to engage
+in research in the same subfield. The affiliated events foster the
+exchange of ideas and advance the state of research in this field
+through focused interactions of the participants. A description of
+each event will be included in the conference proceedings.
+
+Posters and tool demos
+Posters will be exhibited in their own separate session, to foster
+informal exchanges between the exhibitors and the participants.
+Poster submissions are not required to cover completed major research 
+results. There is going to be a session for tool demos covering both 
+industry-strength tools and academic prototypes. Accepted posters and 
+tool demonstrations will be included in the conference proceedings 
+(up to 4 pages in the IEEE CS proceedings style). The poster/tool 
+proposals should indicate the novelty of the approach and how the ideas 
+will be presented.
+
+Special theme
+Program comprehension naturally covers different scopes: procedures, 
+modules, components, frameworks, product lines, systems, and ultimately 
+conglomerations of integrated, interacting or mutually depended systems. 
+This time, ICPC further stretches the boundaries by explicitly calling 
+out the scope of a portfolio, and adding portfolio comprehension to the 
+list of topics. Think of a portfolio as a set of software systems in a 
+given business. Given this scope, particular comprehension needs arise 
+such as those related to portfolio management, i.e., comprehension 
+helps with decision making regarding outsourcing, renewal, retirement 
+or replacement of parts of the portfolio. Regular submissions and 
+affiliated events are welcome to address the theme of portfolio 
+comprehension in addition to any of the other topics.
+
+SCP Special Issue
+A selection of the best ICPC 2008 papers will be considered for a 
+special issue in the Science of Computer Programming journal, subject 
+to additional revisions and review. 
+
+Workshops
+ICPC 2008 will host several satellite workshops: 
+- International Workshop on Semantic Technologies in 
+  System Maintenance (STSM).
+- Working Session on Industrial Realities of Program Comprehension
+
+
+Contacts
+General Chair: Chris Verhoef, VU University, Amsterdam, The
+Netherlands, x@cs.vu.nl; Program Co-Chairs: Rene Krikhaar,
+ICT NoviQ, The Netherlands, rene.krikhaar@ict.nl and Ralf 
+Laemmel, Universität Koblenz-Landau, Germany, laemmel@uni-koblenz.de
+
+Venue
+The main conference and the affiliated events will be held in `The
+Trippenhuis', headquarters of Royal Netherlands Academy of Arts
+and Sciences (cf. http://www.knaw.nl/english), a 17th
+century building in the heart of Amsterdam, in walking distance
+from the central station and suitable hotels.
+Amsterdam is a major hub for the whole of Europe. Schiphol
+International Airport has direct scheduled connections to many
+cities in the world. The airport is located about 15 kilometers (10
+miles) from the center of Amsterdam; the central station can be
+reached by train easily in approximately 20 minutes.
+
+Important dates
+* January 25, 2008: Abstract submissions due
+* February 1, 2008: Paper submissions due (extended)
+* February 10, 2008: Poster and tool submissions due
+* March 1, 2008: Notifications sent to authors
+* March 15, 2008: Camera-ready papers due
+
+
